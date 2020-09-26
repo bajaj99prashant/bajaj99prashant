@@ -8,4 +8,4 @@ I am **Prashant**, a Computer Science and Engineering undergrad from India. I am
 - 🤔 I’m looking for help with **Backend**
 - 💬 Ask me about Anything
 - 📫 How to reach me: [prashantbajaj99@gmail.com](mailto:prashantbajaj99@gmail.com)
-- ⚡ Fun fact: I like to play Chess
+- ⚡ Fun fact: I like to play Chess and Discuss about Physics
